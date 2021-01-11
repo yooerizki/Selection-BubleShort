@@ -1,4 +1,4 @@
-# MatriksMxN
+# Selection Short - Buble Short
 
 
 ###### ALGORITMA PEMROGRAMAN ######
